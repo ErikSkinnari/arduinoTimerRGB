@@ -86,6 +86,10 @@ void loop()
 
 }
 
+void bug(){
+  1 = 0;
+}
+
 void rainbow(uint8_t wait)
 {
   int i, j;
